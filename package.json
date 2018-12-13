@@ -1,0 +1,23 @@
+{
+  "name": "fpp-sdk",
+  "version": "0.0.1",
+  "description": "Face++ Node.js SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knewcloud/fpp.git"
+  },
+  "keywords": [
+    "faceplusplus",
+    "face++"
+  ],
+  "author": "demohi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knewcloud/fpp/issues"
+  },
+  "homepage": "https://github.com/knewcloud/fpp#readme"
+}
