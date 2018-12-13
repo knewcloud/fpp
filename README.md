@@ -1,2 +1,2 @@
-# fpp
-face++ Node.js SDK
+# fpp-sdk
+Face++ Node.js SDK
